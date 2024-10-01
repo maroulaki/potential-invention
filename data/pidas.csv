@@ -1,7 +1,7 @@
 Personal Details,,,,,,,,,,,,,Build,,,,,,,,,,,,,,,,
 #,Name,Gender,Race,Size,Alignment,,Age,Background,Relationships,Wellbeing,Gold,Status,Attributes,Level,First Class,l1,Multiclass 1,l2,Multiclass 2,l3,Multiclass 3,l4,ASI 1,ASI 2,ASI 3,ASI 4,ASI 5,ASI 6,ASI 7
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,Yaevin,Male,Elf,Medium,Chaotic,Neutral,22,Criminal,Single,Alive,"150,00",Retired,Rolled,4,Assassin Rogue,,Paladin,,,,,,,,,,,,
+1,Yaevin,Male,Elf,Medium,Chaotic,Neutral,22,Criminal,Single,Alive,"150,00",Retired,Rolled,4,Assassin Rogue,3,Paladin,1,,,,,,,,,,,
 2,Dexter,Male,Human,Medium,Chaotic,Good,25,Witchlight Hand,Single,Alive,"150.000,00 g",Active,Point Buy,18,Mercy Monk,,,,,,,,Ability Score Improvement,Ability Score Improvement,Ability Score Improvement,Ability Score Improvement,,,
 3,Tchouf Mpaemn,Male,Gnome,Small,Neutral,Neutral,423,Haunted One,Widowed,Alive,"500,00 g",Active,Rolled,8,Armorer Artificer,,,,,,,,Ability Score Improvement,Mounted Combatant,,,,,
 4,Achak Amai,Male,Human,Medium,Lawful,Good,35,Hermit,Single,Alive,"300,00 g",Active,Point Buy,5,Phantom Rogue,,,,,,,,Ability Score Improvement,,,,,,

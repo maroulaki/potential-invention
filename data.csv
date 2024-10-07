@@ -1,0 +1,62 @@
+Name,Gender,Race,Size,Align_Law,Align_Moral,Age,Background,Relationships,Wellbeing,Gold,Status,Attributes,Level,First Class,l1,Multiclass 1,l2,Multiclass 2,l3,Multiclass 3,l4,ASI 1,ASI 2,ASI 3,ASI 4,ASI 5,ASI 6,ASI 7,player_gender
+Apholia Brainir,Female,Aasimar,Medium,Lawful,Evil,31.0,Haunted One,Single,Alive,1193.2,Retired,Point Buy,17,Hexblade Warlock,15.0,War Wizard,2.0,No,0.0,No,0.0,Ability Score Improvement,Mage Slayer,Shadow Touched,None,None,None,None,Female
+Nuria Ember,Female,Shifter,Medium,Neutral,Good,40.0,Haunted One,Married,Alive,3710.1,Retired,Point Buy,14,Beast Barbarian,14.0,No,0.0,No,0.0,No,0.0,Ability Score Improvement,Ability Score Improvement,Ability Score Improvement,None,None,None,None,Female
+Gorin of the Ironhill,Male,Dwarf,Medium,Lawful,Good,155.0,Clan Crafter,Single,Alive,500.0,Retired,Point Buy,5,Rune Knight Fighter,4.0,Forge Cleric,1.0,No,0.0,No,0.0,Ability Score Improvement,None,None,None,None,None,None,Female
+Shyorin Baenre,Female,Elf,Medium,Neutral,Good,22.0,Acolyte,In Relationship,Alive,10000.0,Active,Point Buy,12,Twilight Cleric,12.0,No,0.0,No,0.0,No,0.0,Ability Score Improvement,War Caster,Ability Score Improvement,None,None,None,None,Female
+Adam Scott,Male,Human,Medium,Neutral,Neutral,17.0,Spy,Single,Alive,500.0,Retired,Point Buy,5,Soulknife Rogue,5.0,No,0.0,No,0.0,No,0.0,Ability Score Improvement,None,None,None,None,None,None,Female
+Katalina Conarin,Female,Half-Elf,Medium,Neutral,Good,24.0,Gruul Anarch,Single,Alive,15.0,Retired,Rolled,5,Oathbreaker Paladin,5.0,No,0.0,No,0.0,No,0.0,Skill Expert,None,None,None,None,None,None,Female
+Shylef,Female,Dragonborn,Medium,Neutral,Good,16.0,Uthgardt Tribe Member,Single,Dead,10.0,Retired,Rolled,3,Wildfire Druid,3.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Female
+Nyrillis,Female,Triton,Medium,Chaotic,Neutral,180.0,Faceless,Single,Alive,10.0,Retired,Rolled,3,Glamour Bard,3.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Female
+Zindan,Male,Elf,Medium,Neutral,Good,50.0,Far Traveler,Single,Alive,200.0,Active,Rolled,13,Battle Master Fighter,12.0,Rogue,1.0,No,0.0,No,0.0,Ability Score Improvement,Piercer,Sharpshooter,Elven Accuracy,None,None,None,Female
+Yasher,Male,Leonin,Medium,Lawful,Good,60.0,Far Traveler,Single,Alive,10.0,Retired,Rolled,3,Redemption Paladin,3.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Female
+Gnumi Fabia,Female,Satyr,Medium,Chaotic,Good,21.0,Far Traveler,Single,Alive,1000.0,Active,Point Buy,9,Dreams Druid,4.0,Mercy Monk,5.0,No,0.0,No,0.0,Ability Score Improvement,Telekinetic,None,None,None,None,None,Female
+Tash'ta Ixtualican,Male,Tiefling,Medium,Neutral,Neutral,35.0,Archaeologist,Single,Alive,25.0,Active,Rolled,5,Celestial Warlock,5.0,No,0.0,No,0.0,No,0.0,Ability Score Improvement,None,None,None,None,None,None,Female
+Flame,Male,Genasi,Medium,Neutral,Neutral,17.0,Haunted One,Single,Alive,10.0,Active,Rolled,7,Wildfire Druid,7.0,No,0.0,No,0.0,No,0.0,Ability Score Improvement,None,None,None,None,None,None,Female
+Ethan Hildebrand,Male,Human,Medium,Neutral,Good,25.0,City Watch,Single,Dead,10.0,Active,Point Buy,1,Fighter,1.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Female
+Ruth Maddock,Female,Human,Medium,Neutral,Evil,43.0,Urban Bounty Hunter,Single,Alive,2021.0,Retired,Standard Array,15,Gunslinger Fighter,14.0,Fiend Warlock,1.0,No,0.0,No,0.0,Ability Score Improvement,Ability Score Improvement,Ability Score Improvement,Gunner,None,None,None,Female
+Lucretia Casimir Sullivan,Female,Dhamphir,Medium,Neutral,Neutral,18.0,Wildspacer,Single,Alive,10.0,Retired,Rolled,3,Phantom Rogue,3.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Female
+Khalid Kashmiri,Male,Hexblood,Medium,Neutral,Good,20.0,Haunted One,Single,Alive,10.0,Retired,Rolled,3,Monster Slayer Ranger,3.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Female
+Vekia Thortak,Female,Changeling,Medium,Neutral,Good,27.0,Soldier,Single,Alive,4750.0,Concept,Rolled,12,Swarmkeeper Ranger,12.0,No,0.0,No,0.0,No,0.0,Ability Score Improvement,Piercer,Keen Mind,None,None,None,None,Female
+Sanja,Male,Tabaxi,Small,Neutral,Neutral,26.0,Folk Hero,Single,Alive,10.0,Concept,Point Buy,3,Kensei Monk,3.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Female
+James,Male,Human,Medium,Neutral,Good,56.0,Shipwright,Divorced,Alive,10.0,Concept,Point Buy,3,Spirits Bard,3.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Female
+Zephir Simanof,Male,Human,Medium,Neutral,Neutral,83.0,Haunted One,Single,Alive,100.0,Concept,Point Buy,18,Mutant Blood Hunter,18.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Female
+Darsil Brainir,Male,Aasimar,Medium,Lawful,Good,38.0,Hermit,Single,Alive,10.0,Concept,Rolled,6,War Cleric,6.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Female
+Lathelion Ysmirie Son of Dilith,Male,Elf,Medium,Lawful,Good,230.0,Sage,Single,Alive,50.0,Concept,Rolled,3,Evocation Wizard,3.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Female
+Sweeper,Male,Kenku,Small,Neutral,Neutral,30.0,Criminal,Single,Alive,10.0,Concept,Rolled,3,Thief Rogue,3.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Female
+Uncle Borin of the Ironhill,Male,Dwarf,Medium,Lawful,Good,200.0,Clan Crafter,Widowed,Alive,10.0,Concept,Point Buy,1,Forge Cleric,1.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Female
+Lady Nemessa,Female,Centaur,Medium,Lawful,Evil,30.0,Haunted One,Single,Alive,10.0,Concept,Point Buy,8,Necromancy Wizard,8.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Female
+Marouli,Female,Gnome,Small,Neutral,Good,125.0,Wildspacer,Single,Alive,10.0,Concept,Rolled,4,Scribes Wizard,3.0,Artificer,1.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Female
+Ursa,Female,Half-Elf,Medium,Chaotic,Neutral,22.0,Criminal,In Relationship,Alive,3650.0,Active,Point Buy,13,Echo Knight Fighter,9.0,Totem Warrior Barbarian,4.0,No,0.0,No,0.0,Crusher,Ability Score Improvement,Grappler,Tough,None,None,None,Male
+Emily,Female,Tabaxi,Medium,Chaotic,Good,20.0,House Agent,In Relationship,Alive,1.0,Active,Point Buy,11,Kensei Monk,11.0,No,0.0,No,0.0,No,0.0,Gunner,Piercer,None,None,None,None,None,Male
+Anillia Wulf,Female,Human,Medium,Chaotic,Good,20.0,Entertainer,Single,Alive,5.0,Active,Rolled,4,Battle Master Fighter,4.0,No,0.0,No,0.0,No,0.0,Ability Score Improvement,None,None,None,None,None,None,Male
+Belkas Amberwood,Male,Halfling,Small,Lawful,Good,35.0,Custom Background,Single,Alive,14.0,Active,Point Buy,2,Life Cleric,2.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Male
+Sylia Nightblossom,Female,Elf,Medium,Chaotic,Neutral,17.0,Hermit,Single,Alive,5.0,Active,Rolled,6,Moon Druid,3.0,Storm Herald Barbarian,3.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Male
+Mordecai,Male,Kobold,Small,Chaotic,Good,42.0,Soldier,Single,Alive,206.0,Retired,Point Buy,13,Battle Master Fighter,13.0,No,0.0,No,0.0,No,0.0,Shield Master,Sentinel,Ability Score Improvement,Ability Score Improvement,None,None,None,Male
+Sam Silverfang,Female,Yuan-Ti,Medium,Lawful,Neutral,27.0,Urban Bounty Hunter,Single,Alive,150.0,Retired,Point Buy,6,Shadow Sorcerer,6.0,No,0.0,No,0.0,No,0.0,Shadow Touched,None,None,None,None,None,None,Male
+Noxia Evershroud,Female,Goblin,Small,Lawful,Good,30.0,Feylost,Single,Alive,8.0,Retired,Point Buy,15,Fey Wanderer Ranger,15.0,No,0.0,No,0.0,No,0.0,Piercer,Sharpshooter,Ability Score Improvement,None,None,None,None,Male
+Erren,Female,Aarakocra,Medium,Lawful,Neutral,50.0,Criminal,In Relationship,Alive,15.0,Retired,Point Buy,11,Long Death Monk,11.0,No,0.0,No,0.0,No,0.0,Slasher,Mobile,None,None,None,None,None,Male
+Guinevere,Female,Human,Medium,Neutral,Neutral,35.0,Mercenary Veteran,Widowed,Alive,10.0,Retired,Rolled,3,Oathbreaker Paladin,3.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Male
+Gnarlak,Male,Goblin,Small,Chaotic,Neutral,20.0,Criminal,Single,Alive,15.0,Concept,Point Buy,3,Shadow Monk,3.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Male
+Amon,Male,Tabaxi,Medium,Lawful,Neutral,35.0,Archaeologist,Widowed,Alive,25.0,Concept,Point Buy,3,Hexblade Warlock,3.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Male
+Kaia,Female,Elf,Medium,Neutral,Good,130.0,Marine,Single,Alive,10.0,Concept,Point Buy,3,Hunter Ranger,3.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Male
+Apikalia,Female,Elf,Medium,Chaotic,Good,100.0,Cloistered Scholar,Single,Alive,10.0,Concept,Point Buy,3,Evocation Wizard,3.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Male
+Zut,Male,Goblin,Small,Lawful,Neutral,40.0,Soldier,Single,Alive,10.0,Concept,Point Buy,3,Samurai Fighter,3.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Male
+Darastria,Female,Kobold,Small,Lawful,Good,20.0,Far Traveler,Single,Alive,5.0,Concept,Point Buy,3,Ascendant Dragon Monk,3.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Male
+Tristessa,Female,Elf,Medium,Neutral,Neutral,200.0,Volstrucker Agent,In Relationship,Alive,500.0,Concept,Point Buy,10,Swashbuckler Rogue,4.0,Kensei Monk,6.0,No,0.0,No,0.0,Piercer,Mobile,None,None,None,None,None,Male
+Sienna,Female,Centaur,Medium,Neutral,Neutral,20.0,Outlander,In Relationship,Alive,10.0,Concept,Point Buy,3,Beast Master Ranger,3.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Male
+Vikra,Male,Kobold,Small,Chaotic,Good,40.0,Faction Agent,Single,Alive,13.0,Concept,Point Buy,5,Alchemist Artificer,5.0,No,0.0,No,0.0,No,0.0,Keen Mind,None,None,None,None,None,None,Male
+Branok,Male,Aasimar,Medium,Lawful,Neutral,40.0,Acolyte,Divorced,Alive,15.0,Concept,Point Buy,3,Death Cleric,3.0,No,0.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Male
+Yaevin,Male,Elf,Medium,Chaotic,Neutral,22.0,Criminal,Single,Alive,150.0,Retired,Rolled,4,Assassin Rogue,3.0,Paladin,1.0,No,0.0,No,0.0,None,None,None,None,None,None,None,Male
+Dexter,Male,Human,Medium,Chaotic,Good,25.0,Witchlight Hand,Single,Alive,150000.0,Active,Point Buy,18,Mercy Monk,1.0,No,0.0,No,0.0,No,0.0,Ability Score Improvement,Ability Score Improvement,Ability Score Improvement,Ability Score Improvement,None,None,None,Male
+Tchouf Mpaemn,Male,Gnome,Small,Neutral,Neutral,423.0,Haunted One,Widowed,Alive,500.0,Active,Rolled,8,Armorer Artificer,1.0,No,0.0,No,0.0,No,0.0,Ability Score Improvement,Mounted Combatant,None,None,None,None,None,Male
+Achak Amai,Male,Human,Medium,Lawful,Good,35.0,Hermit,Single,Alive,300.0,Active,Point Buy,5,Phantom Rogue,1.0,No,0.0,No,0.0,No,0.0,Ability Score Improvement,None,None,None,None,None,None,Male
+Francine DeRaine,Female,Human,Medium,Chaotic,Good,26.0,Sailor,Single,Alive,200.0,Active,Rolled,11,Open Sea Paladin,1.0,No,0.0,No,0.0,No,0.0,Ability Score Improvement,Ability Score Improvement,None,None,None,None,None,Male
+Rua'Lyth,Female,Elf,Medium,Neutral,Good,20.0,Hermit,Single,Alive,7660.0,Active,Rolled,6,Stars Druid,1.0,No,0.0,No,0.0,No,0.0,Ability Score Improvement,None,None,None,None,None,None,Male
+Caldur Ironjaw,Male,Dwarf,Medium,Lawful,Neutral,136.0,Clan Crafter,Single,Alive,240.0,Active,Point Buy,9,Giant Barbarian,1.0,No,0.0,No,0.0,No,0.0,Ability Score Improvement,Ability Score Improvement,None,None,None,None,None,Male
+The Lad,Male,Human,Medium,Lawful,Neutral,48.0,Soldier,Single,Alive,0.0,Retired,Rolled,7,Tempest Cleric,1.0,No,0.0,No,0.0,No,0.0,Ability Score Improvement,None,None,None,None,None,None,Male
+Yaevin Vol 2,Male,Half-Elf,Medium,Chaotic,Neutral,22.0,Urchin,Single,Alive,10.0,Concept,Point Buy,9,Soulknife Rogue,1.0,No,0.0,No,0.0,No,0.0,Telepathic,Skill Expert,None,None,None,None,None,Male
+Nathaniel Whitelance,Male,Dragonborn,Medium,Lawful,Good,53.0,City Watch,Single,Alive,10.0,Concept,Point Buy,9,Redemption Paladin,1.0,No,0.0,No,0.0,No,0.0,Gift of the Metallic Dragon,Heavy Armor Master,None,None,None,None,None,Male
+Adhmor Rabbitfoot,Male,Halfling,Small,Chaotic,Neutral,29.0,Gambler,Single,Alive,10.0,Concept,Point Buy,9,Eloquence Bard,1.0,No,0.0,No,0.0,No,0.0,Cartomancer,Second Chance,None,None,None,None,None,Male
+G92L5S,Other,Custom Lineage,Medium,Lawful,Neutral,562.0,Gate Warden,Single,Alive,680.0,Active,Point Buy,5,Clockwork Soul Sorcerer,1.0,No,0.0,No,0.0,No,0.0,Agent of Order,None,None,None,None,None,None,Male
+Nephilee Drayna Faust,Female,Changeling,Medium,Neutral,Good,33.0,Investigator,Single,Alive,10.0,Concept,Point Buy,9,Fiend Warlock,1.0,No,0.0,No,0.0,No,0.0,Ability Score Improvement,Ability Score Improvement,None,None,None,None,None,Male
+Kieran Cinderhide,Male,Tiefling,Medium,Neutral,Neutral,19.0,Gladiator,Single,Alive,10.0,Active,Rolled,4,Eldritch Knight Fighter,1.0,No,0.0,No,0.0,No,0.0,Flames of Phlegethos,None,None,None,None,None,None,Male
